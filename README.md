@@ -30,6 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
 </div>
 
+---
+
+
+## 📊 Trophies
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azhanhashmi&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
