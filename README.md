@@ -24,9 +24,7 @@
 <p>
   <a href="mailto:azhanhashmi788@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Azhanhashmi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Replace # with your actual LinkedIn URL -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Replace # with your portfolio URL if you have one -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -88,36 +86,42 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/ai-assistant-vector-engine"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/am-i-hireable"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://am-i-hireable.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/InceptaX"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://inceptax.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <td align="center"><b>AI Task Platform</b></td>
-    <td align="center"><b>Hirely</b></td>
+    <td align="center"><b>Candidate Dashboard</b></td>
     <td align="center"><b>E-Commerce Platform</b></td>
+    <td align="center"><b>Hirely</b></td>
   </tr>
   <tr>
-    <td align="center">AI-powered task management platform with intelligent automation and a dedicated infrastructure layer.</td>
-    <td align="center">Clean and minimal job board built with React.js & Tailwind CSS, fetching real-time IT job listings by category and location.</td>
+    <td align="center">AI-powered candidate evaluation dashboard with intelligent screening and real-time analytics.</td>
     <td align="center">Full-featured e-commerce platform with product listings, cart management, and a seamless checkout experience.</td>
+    <td align="center">Clean and minimal job board built with React.js & Tailwind CSS, fetching real-time IT job listings by category and location.</td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Azhanhashmi/ai-task-platform"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/Hirely"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Azhanhashmi/Candidate-dashboard"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://candidate-dashboard-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/E-commerce-platform"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://shopforever.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Azhanhashmi/Hirely"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -136,12 +140,15 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/Crypto-tracker"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://crypto-tracker-live-one.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/CINEX"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://cinex-eta.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Azhanhashmi/Memory-Remember-Game"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://brainmatch.netlify.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
