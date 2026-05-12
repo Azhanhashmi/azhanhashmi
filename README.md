@@ -186,6 +186,6 @@
 <br/>
 
 🌱 Currently learning **RAG Architecture & Backend Frameworks**
-📫 Reach me at **[azhanhashmi788@gmail.com](mailto:azhanhashmi788@gmail.com)**
+📫 Contact me at **[azhanhashmi788@gmail.com](mailto:azhanhashmi788@gmail.com)**
 
 </div>
